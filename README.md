@@ -77,3 +77,9 @@ The steps to work on today are as follows:
 
 Screenshot each stage and add them into here so that you can evidence completing the steps necessary
 
+## Backend deployment
+
+![alt text](image1.png)
+![alt text](image2.png)
+![alt text](image3.png)
+![alt text](image4.png)
