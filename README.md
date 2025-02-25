@@ -83,3 +83,9 @@ Screenshot each stage and add them into here so that you can evidence completing
 ![alt text](image2.png)
 ![alt text](image3.png)
 ![alt text](image4.png)
+
+## Frontend deployment
+
+![alt text](image5.png)
+![alt text](image6.png)
+![alt text](image7.png)
